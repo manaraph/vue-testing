@@ -1,4 +1,5 @@
 # vue-testing
+Testing vue app with jest
 
 ## Project setup
 ```
