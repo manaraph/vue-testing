@@ -9,7 +9,8 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "vue": "^2.6.6"
+    "vue": "^2.6.6",
+    "webpack-bundle-analyzer": "^3.3.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
